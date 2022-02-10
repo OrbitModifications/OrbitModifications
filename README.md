@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrbitModifications
-- 👀 I’m interested in ... FiveM/Lua
+- 👀 I’m interested in ... Lua/Front end development
 - 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ... orbitmodifications@gmail.com
 
